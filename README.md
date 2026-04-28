@@ -56,8 +56,7 @@ Scikit-learn, NLP, TF-IDF, RAG, Vector Embeddings, LLMs, OpenCV
 
 ## 🏆 Achievements
 
-* Web Development Head, MindBend
-* Executive Member, ACM NIT Surat
+
 * Finalist, Web Wonders Hackathon
 * Solved 400+ DSA Problems on LeetCode
 * JEE Main 99.17 Percentile
